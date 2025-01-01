@@ -1,10 +1,12 @@
-@ Stopwatch_Part_2
+@ Assembly Stopwatch
 @
 @ ECSE 4235 - Embedded Systems II
 @ Property of Samuel Brewster and Simline Gijo	
 @ Created 18SEP2024
 @
-@ To Compile, Use: gcc -o Stopwatch_Part_2 Stopwatch_Part_2.s -lc
+@ Makefile Commands:
+@ 	make Run
+@ 	make Clean
 
 
 	.text
