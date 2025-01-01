@@ -1,0 +1,1 @@
+The following program utilizes C programming in conjuction with the bcm2835 library in order to send the current time to a DS3231. After the time is sent, the program can obtain the time from the RTC and display it to the user via a terminal. The program is intended to run on a Raspberry Pi 4.
