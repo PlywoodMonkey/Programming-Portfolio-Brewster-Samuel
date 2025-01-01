@@ -1,3 +1,13 @@
+/*   
+* File:                         tempSensor.ino
+* Author:                       Samuel Brewster, University of Georgia
+* Code used in conjuction with: convertLatLong.ino, landNavPatrolCap.ino
+*
+* Used in Dr. Trudgen's ELEE 4230: Sensor's and Transducer's Class.
+* Used in Final Project: Land Nav Patrol Cap
+* 
+*/
+
 #include <Arduino.h>
 
 String findTemp() {
